@@ -1,0 +1,6 @@
+{
+  "name": "BourseVision AI - Récap & Signaux d'Investissement",
+  "description": "Plateforme d'analyse boursière en temps réel, 5 marchés à fort potentiel avec stratégies de sortie et connexion IA locale pour envoi quotidien par email.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
